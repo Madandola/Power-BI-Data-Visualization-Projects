@@ -34,7 +34,7 @@ European markets offer varied profitability, suggesting room for optimization.
 Overall, the business exhibits positive growth trends and balanced category performance, with opportunities to enhance Furniture sales and expand in lower-performing countries.
 
 
-## Power BI sales analysis report for Adventure Works (2018 to 2020)
+## Power BI sales analysis report for Adventure Works (2019 to 2020)
 
 The Adventure Works was another Power BI data visualization project completed during my Bootcamp with JustIT. This Analysis reports provide a comprehensive sales performance, profit margins, and inventory trends from FY2019 to FY2020.
 
